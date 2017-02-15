@@ -1,0 +1,14 @@
+{
+  "name": "nginx-php-fpm",
+  "version": "1.0.0",
+  "description": "[![Travis](https://img.shields.io/docker/pulls/richarvey/nginx-php-fpm.svg?style=flat-square)]()\r [![Travis](https://img.shields.io/docker/stars/richarvey/nginx-php-fpm.svg?style=flat-square)]()\r [![Travis](https://img.shields.io/travis/ngineered/nginx-php-fpm.svg?style=flat-square)]()",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
